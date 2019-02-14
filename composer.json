@@ -1,5 +1,5 @@
 {
-    "name": "hkarlstrom/openapi-reader",
+    "name": "thesebas/openapi-reader",
     "description": "Library for parsing OpenAPI JSON/YAML documentation files.",
     "license": "MIT",
     "authors": [
